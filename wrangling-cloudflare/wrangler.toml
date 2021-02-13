@@ -1,0 +1,4 @@
+name = "wrangling-cloudflare"
+type = "webpack"
+account_id = "b98bd5d845dc2e8e26feca791d4172f0"
+workers_dev = true

@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "wrangling-cloudflare",
+  "version": "1.0.0",
+  "description": "Cloudflare's Fullstack Engineering Internship Challenge",
+  "main": "index.js",
+  "author": "Elias Gabriel <me@eliasfgabriel.com>, Kristian Freeman <kristian@kristianfreeman.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.42.1"
+  }
+}
